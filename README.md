@@ -1,6 +1,6 @@
 ## Example of how a library can export both Flow and Typescript types
 
-See `my-lib` in `node_modules`
+See `my-lib` in `node_modules` for type definitions. Look in `src` for flow/ts usage examples.
 
 Relevant links:
 
